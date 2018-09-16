@@ -1,2 +1,2 @@
 # examination
-Android各次考核题
+此仓库为Android组各次考核题的汇总
